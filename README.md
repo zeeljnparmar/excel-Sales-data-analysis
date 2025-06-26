@@ -14,7 +14,7 @@ This project is a part of my learning journey in data analytics and showcases my
 
 ## 📊 Dashboard Preview
 
-![Excel Dashboard](screenshots/dashboard.png)
+![Excel Dashboard](dashboard.jpeg)
 
 > The dashboard provides insights such as:
 > - Trends over time
